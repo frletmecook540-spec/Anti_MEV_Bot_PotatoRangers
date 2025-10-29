@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Hardhat build files
+artifacts/
+cache/
+typechain/
+typechain-types/
+
+# Coverage reports
+coverage/
+coverage.json
+
+# Logs and system files
+*.log
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
